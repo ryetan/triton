@@ -8,6 +8,7 @@ public class TritonApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TritonApplication.class, args);
+	
 	}
 
 }
