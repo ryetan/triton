@@ -2,7 +2,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
-.apt_generated
+。apt_generated
 .classpath
 .factorypath
 .project
